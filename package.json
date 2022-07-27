@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/mbrzozo/drp/issues"
   },
-  "homepage": "https://github.com/mbrzozo/drp#readme"
+  "homepage": "https://github.com/mbrzozo/drp#readme",
+  "dependencies": {
+    "purecloud-platform-client-v2": "^143.0.0"
+  },
+  "devDependencies": {}
 }
